@@ -1,0 +1,149 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/ex79znkqvkh4pg8ngk24"
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/boomerang.png?raw=true" group-title="Kids" tvg-shift="-7",Boomerang
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/6662281
+#EXTINF:-1 tvg-id="Boomerang.uk" tvg-name="Boomerang UK" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/boomerang.png?raw=true" group-title="Kids" tvg-shift="-7",Boomerang UK
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/1081
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network (East)" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/cartoonnetwork.png?raw=true" group-title="Kids" tvg-shift="-7",Cartoon Network (East)
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/6666397
+#EXTINF:-1 tvg-id="CartoonNetwork(Pacific).us" tvg-name="Cartoon Network (West)" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/cartoonnetwork.png?raw=true://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="Kids" tvg-shift="-7",Cartoon Network (West)
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/66625082
+#EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="Cartoon Network UK" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/cartoonnetwork.png?raw=true://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="Kids" tvg-shift="-7",Cartoon Network UK
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/1063
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel (East)" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/disneychannel.png?raw=true" group-title="Kids" tvg-shift="-7",Disney Channel (East)
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/1657
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD (East)" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/disneyxd.png?raw=true" group-title="Kids" tvg-shift="-7",Disney XD (East)
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/1655
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/nickelodeon.png?raw=true" group-title="Kids" tvg-shift="-7",Nickelodeon
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/66657036
+#EXTINF:-1 tvg-id="StarzKids.us" tvg-name="Starz Kids & Family" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/starzkidsfamily.png?raw=true" group-title="Kids" tvg-shift="-7",Starz Kids & Family
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/1354
+#EXTINF:-1 tvg-id="ShowtimeFamilyzone.us" tvg-name="Showtime Family Zone" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/showtimefamilyzone.png?raw=true" group-title="Kids" tvg-shift="-7",Showtime Family Zone
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/95415
+#EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="HBO Family" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/hbofamily.png?raw=true" group-title="Kids" tvg-shift="-7",HBO Family
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/1357
+#EXTINF:-1 tvg-id="CBS(Chicago)(src05).us" tvg-name="CBS 2 Chicago (WBBM)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Wbbm.png/200px-Wbbm.png" group-title="Locals" tvg-shift="-7",CBS 2 Chicago (WBBM)
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/99833807
+#EXTINF:-1 tvg-id="NBCWMAQ(ChicagoIL)(src05).us" tvg-name="NBC 5 Chicago (WMAQ)" tvg-logo="https://github.com/beagle134/logos/blob/master/locals/wmaq.png?raw=true" group-title="Locals" tvg-shift="-7",NBC 5 Chicago (WMAQ)
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/99833930
+#EXTINF:-1 tvg-id="ABC(Chicago)(src05).us" tvg-name="ABC 7 Chicago (WLS)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/WLS_2013_Logo.png/180px-WLS_2013_Logo.png" group-title="Locals" tvg-shift="-7",ABC 7 Chicago (WLS)
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/99833786
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WGN 9 Chicago" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/WGN_9_logo.svg/250px-WGN_9_logo.svg.png" group-title="Locals" tvg-shift="-7",WGN 9 Chicago
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/9989586
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PBS 11 Chicago (WTTW)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Wttw11.svg/240px-Wttw11.svg.png" group-title="Locals" tvg-shift="-7",PBS 11 Chicago (WTTW)
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/99833951
+#EXTINF:-1 tvg-id="Fox(Chicago)(src05).us" tvg-name="Fox 32 Chicago (WFLD)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/WFLDFox32News.png/150px-WFLDFox32News.png" group-title="Locals" tvg-shift="-7",Fox 32 Chicago (WFLD)
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/99833872
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="U Too Chicago" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/WCIU_the_U_logo_2017.svg/150px-WCIU_the_U_logo_2017.svg.png" group-title="Locals" tvg-shift="-7",U Too Chicago
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/99834492
+#EXTINF:-1 tvg-id="NBC(Cleveland)(src05).us" tvg-name="NBC 3 Cleveland (WKYC)" tvg-logo="https://github.com/beagle134/logos/blob/master/locals/wkyc.png?raw=true" group-title="Locals" tvg-shift="-7",NBC 3 Cleveland (WKYC)
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/99834383
+#EXTINF:-1 tvg-id="ABC(Cleveland)(src05).us" tvg-name="ABC 5 Cleveland (WEWS)" tvg-logo="https://github.com/beagle134/logos/blob/master/locals/wews.png?raw=true" group-title="Locals" tvg-shift="-7",ABC 5 Cleveland (WEWS)
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/99834384
+#EXTINF:-1 tvg-id="Fox(Cleveland)(src05).us" tvg-name="Fox 8 Cleveland (WJW)" tvg-logo="https://github.com/beagle134/logos/blob/master/locals/wjw.png?raw=true" group-title="Locals" tvg-shift="-7",Fox 8 Cleveland (WJW)
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/99834385
+#EXTINF:-1 tvg-id="CBSWOIO(ShakerHeightsOH)(src05).us" tvg-name="CBS 19 Cleveland (WOIO)" tvg-logo="https://github.com/beagle134/logos/blob/master/locals/woio.png?raw=true" group-title="Locals" tvg-shift="-7",CBS 19 Cleveland (WOIO)
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/99834386
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PBS 25 Cleveland (WVIZ)" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/WVIZ_PBS_logo.gif?raw=true" group-title="Locals" tvg-shift="-7",PBS 25 Cleveland (WVIZ)
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/99834388
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="My 43 Cleveland (WUAB)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/WUAB_2018_Logo.png/225px-WUAB_2018_Logo.png" group-title="Locals" tvg-shift="-7",My 43 Cleveland (WUAB)
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/99824201
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="3TV Phoenix (KTVK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/KTVK_logo_2013.png/150px-KTVK_logo_2013.png" group-title="Locals" tvg-shift="-7",3TV Phoenix (KTVK)
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/99833763
+#EXTINF:-1 tvg-id="CBSKPHO(PhoenixAZ)(src05).us" tvg-name="CBS 5 Phoenix (KPHO)" tvg-logo="https://github.com/beagle134/logos/blob/master/locals/kpho.png?raw=true" group-title="Locals" tvg-shift="-7",CBS 5 Phoenix (KPHO)
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/99833823
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PBS 8 Phoenix (KAET)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/KAET_logo_2006.png" group-title="Locals" tvg-shift="-7",PBS 8 Phoenix (KAET)
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/99833971
+#EXTINF:-1 tvg-id="FoxKSAZ(PhoenixAZ)(src05).us" tvg-name="Fox 10 Phoenix (KSAZ)" tvg-logo="https://github.com/beagle134/logos/blob/master/locals/ksaz.png?raw=true" group-title="Locals" tvg-shift="-7",Fox 10 Phoenix (KSAZ)
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/99833856
+#EXTINF:-1 tvg-id="NBC(Phoenix)(src05).us" tvg-name="NBC 12 Phoenix (KPNX)" tvg-logo="https://github.com/beagle134/logos/blob/master/locals/kpnx.png?raw=true" group-title="Locals" tvg-shift="-7",NBC 12 Phoenix (KPNX)
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/99833914
+#EXTINF:-1 tvg-id="ABC(PhoenixAZ)(src05).us" tvg-name="ABC 15 Phoenix (KNXV)" tvg-logo="https://github.com/beagle134/logos/blob/master/locals/knxv.png?raw=true" group-title="Locals" tvg-shift="-7",ABC 15 Phoenix (KNXV)
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/99833770
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC 19 Peoria (WHOI)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/HOI_19_ABC_logo.png/175px-HOI_19_ABC_logo.png" group-title="Locals" tvg-shift="-7",ABC 19 Peoria (WHOI)
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/99823617
+#EXTINF:-1 tvg-id="NBCWEEK(PeoriaIL)(src05).us" tvg-name="NBC 25 Peoria (WEEK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/WEEKTV.png/135px-WEEKTV.png" group-title="Locals" tvg-shift="-7",NBC 25 Peoria (WEEK)
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/9986649
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS 31 Peoria (WMBD)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Wmbd_31_2011.png/300px-Wmbd_31_2011.png" group-title="Locals" tvg-shift="-7",CBS 31 Peoria (WMBD)
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/9986409
+#EXTINF:-1 tvg-id="FoxWYZZ(BloomingtonIL)(src05).us" tvg-name="Fox 43 Bloomington (Bloomington)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/WYZZ43.png/190px-WYZZ43.png" group-title="Locals" tvg-shift="-7",Fox 43 Bloomington (Bloomington)
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/9986524
+#EXTINF:-1 tvg-id="AXSTV.us" tvg-name="AXS Tv" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/axstv.png?raw=true" group-title="National" tvg-shift="-7",AXS Tv
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/382
+#EXTINF:-1 tvg-id="AntennaTV(src05).us" tvg-name="Antenna TV" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/antennatv.png?raw=true" group-title="National" tvg-shift="-7",Antenna TV
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/358
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="A&E" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/ae.png?raw=true" group-title="National" tvg-shift="-7",A&E
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/357
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One" tvg-logo="https://github.com/beagle134/logos/blob/master/uk/bbcone.png?raw=true" group-title="National" tvg-shift="-7",BBC One
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/1047
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC Two" tvg-logo="https://github.com/beagle134/logos/blob/master/uk/bbctwo.png?raw=true" group-title="National" tvg-shift="-7",BBC Two
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/1034
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/bbcamerica.png?raw=true" group-title="National" tvg-shift="-7",BBC America
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/4971
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="Bravo" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/bravo.png?raw=true" group-title="National" tvg-shift="-7",Bravo
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/2642
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4 UK" tvg-logo="https://github.com/beagle134/logos/blob/master/uk/channel4.png?raw=true" group-title="National" tvg-shift="-7",Channel 4 UK
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/1260
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="Channel 5 UK" tvg-logo="https://github.com/beagle134/logos/blob/master/uk/channel5.png?raw=true" group-title="National" tvg-shift="-7",Channel 5 UK
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/1259
+#EXTINF:-1 tvg-id="CoziTV(src05).us" tvg-name="COZI-TV" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/cozitv.png?raw=true" group-title="National" tvg-shift="-7",COZI-TV
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/327
+#EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-name="Encore Westerns" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/starzencorewesterns.png?raw=true" group-title="National" tvg-shift="-7",Encore Westerns
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/1353
+#EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/freeform.png?raw=true" group-title="National" tvg-shift="-7",Freeform
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/1654
+#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/hallmark.png?raw=true" group-title="National" tvg-shift="-7",Hallmark Channel
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/2653
+#EXTINF:-1 tvg-id="HallmarkMoviesandMysteries.us" tvg-name="Hallmark Movies & Mysteries" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/hallmarkmovies.png?raw=true" group-title="National" tvg-shift="-7",Hallmark Movies & Mysteries
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/95370
+#EXTINF:-1 tvg-id="INSP.us" tvg-name="INSP" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/insp.png?raw=true" group-title="National" tvg-shift="-7",INSP
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/113177
+#EXTINF:-1 tvg-id="ITV1(West).uk" tvg-name="ITV 1" tvg-logo="https://github.com/beagle134/logos/blob/master/uk/itv.png?raw=true" group-title="National" tvg-shift="-7",ITV 1
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/1036
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV 2" tvg-logo="https://github.com/beagle134/logos/blob/master/uk/itv2.png?raw=true" group-title="National" tvg-shift="-7",ITV 2
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/1051
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV 3" tvg-logo="https://github.com/beagle134/logos/blob/master/uk/itv3.png?raw=true" group-title="National" tvg-shift="-7",ITV 3
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/1277
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV 4" tvg-logo="https://github.com/beagle134/logos/blob/master/uk/itv4.png?raw=true" group-title="National" tvg-shift="-7",ITV 4
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/1276
+#EXTINF:-1 tvg-id="MOTORTREND.us" tvg-name="MotorTrend" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/motortrend.png?raw=true" group-title="National" tvg-shift="-7",MotorTrend
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/6662302
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/paramount.png?raw=true" group-title="National" tvg-shift="-7",Paramount
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/99573
+#EXTINF:-1 tvg-id="POP.us" tvg-name="Pop" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/pop.png?raw=true" group-title="National" tvg-shift="-7",Pop
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/307
+#EXTINF:-1 tvg-id="RFDTV.us" tvg-name="RFD" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/rfdtv.png?raw=true" group-title="National" tvg-shift="-7",RFD
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/414
+#EXTINF:-1 tvg-id="Science.us" tvg-name="Science" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/discoveryscience.png?raw=true" group-title="National" tvg-shift="-7",Science
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/5559425
+#EXTINF:-1 tvg-id="SmithsonianNetwork.us" tvg-name="Smithsonian" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/smithsonian.png?raw=true" group-title="National" tvg-shift="-7",Smithsonian
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/95368
+#EXTINF:-1 tvg-id="TLC(East)(src05).us" tvg-name="TLC" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/tlc.png?raw=true" group-title="National" tvg-shift="-7",TLC
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/6662362
+#EXTINF:-1 tvg-id="TVLand.us" tvg-name="TV Land" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/tvland.png?raw=true" group-title="National" tvg-shift="-7",TV Land
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/6662364
+#EXTINF:-1 tvg-id="UP.us" tvg-name="UPTV" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/uptv.png?raw=true" group-title="National" tvg-shift="-7",UPTV
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/5042
+#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-name="Big Ten Network" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/bigtennetwork.png?raw=true" group-title="Sports" tvg-shift="-7",Big Ten Network
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/574
+#EXTINF:-1 tvg-id="Pac12Network.us" tvg-name="Pac 12" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/pac12.png?raw=true" group-title="Sports" tvg-shift="-7",Pac 12
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/4481
+#EXTINF:-1 tvg-id="NFLNETWORK.us" tvg-name="NFL Network" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/nflnetwork.png?raw=true" group-title="Sports" tvg-shift="-7",NFL Network
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/585
+#EXTINF:-1 tvg-id="NBCSportsChicago.us" tvg-name="NBC Sports Chicago" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/nbcsportschicago.png?raw=true" group-title="Sports" tvg-shift="-7",NBC Sports Chicago
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/547
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/mlbnetwork.png?raw=true" group-title="Sports" tvg-shift="-7",MLB Network
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/531
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="Fox Sports 1" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/foxsports1.png?raw=true" group-title="Sports" tvg-shift="-7",Fox Sports 1
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/5265
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="Fox Sports 2" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/foxsports2.png?raw=true" group-title="Sports" tvg-shift="-7",Fox Sports 2
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/2528
+#EXTINF:-1 tvg-id="SportstimeOhio.us" tvg-name="Sportstime Ohio" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/sportstime_ohio.png?raw=true" group-title="Sports" tvg-shift="-7",Sportstime Ohio
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/2522
+#EXTINF:-1 tvg-id="FoxSportsArizona.us" tvg-name="Fox Sports Arizona" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/Fox_Sports_Arizona.png?raw=true" group-title="Sports" tvg-shift="-7",Fox Sports Arizona
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/2502
+#EXTINF:-1 tvg-id="FoxSportsOhio.us" tvg-name="Fox Sports Ohio" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/Fox_Sports_Ohio.png?raw=true" group-title="Sports" tvg-shift="-7",Fox Sports Ohio
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/2513
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/espn.png?raw=true" group-title="Sports" tvg-shift="-7",ESPN
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/520
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="https://github.com/beagle134/logos/blob/master/usa/espn2.png?raw=true" group-title="Sports" tvg-shift="-7",ESPN 2
+https://cdn.sha-256.org/1011526810/ovVCCJMJCX/519
